@@ -1,7 +1,6 @@
 # Prediction-of-score-based-on-hours-studied-
 
-Basic ML program that works on unsuperised algorthm i.e. 
-Knee method is also used to find k value. 
+Basic ML program that predicts the scores obtained from the total hrs studied. One input variable and one output variable is taken into account,
 Little bit of visualisation is also done. 
 
 ### Libraries Used:
@@ -14,4 +13,4 @@ Python
 Jupyter Notebook
 
 ### Algorthms Used
-KMeans
+Linear Regression
